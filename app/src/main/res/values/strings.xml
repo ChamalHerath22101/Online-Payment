@@ -1,0 +1,13 @@
+<resources>
+    <string name="capp_name">OnlinePayment</string>
+    <string name="cname">Name</string>
+    <string name="cadline1">Address Line 1</string>
+    <string name="cadline2">Address Line 2</string>
+    <string name="cpcode">Postale Code</string>
+    <string name="ccno">Contact Number</string>
+    <string name="cemail">Email</string>
+    <string name="comsg">Optional Message</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnReset">Reset</string>
+
+</resources>

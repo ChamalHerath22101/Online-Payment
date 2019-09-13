@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "612289819730",
+    "firebase_url": "https://onlinepayment-b8e55.firebaseio.com",
+    "project_id": "onlinepayment-b8e55",
+    "storage_bucket": "onlinepayment-b8e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612289819730:android:e3c37137c6cf7a20cd5b8b",
+        "android_client_info": {
+          "package_name": "com.example.payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612289819730-0ksq4kvn8ivnf0uo94v7m79drvkf05te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payment",
+            "certificate_hash": "086c31b8323c48b4d67cdd965d52276dd2f7acc2"
+          }
+        },
+        {
+          "client_id": "612289819730-9slronje8a6ibdenetm2kg3id70coned.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO2rdIyQAvv20bVdkFjFpD8ZNSg8RxMaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612289819730-9slronje8a6ibdenetm2kg3id70coned.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
